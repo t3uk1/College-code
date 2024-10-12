@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+F:\vs2019\VC\Tools\MSVC\14.29.30133\include\GL\glad.h(32): message : 参见“APIENTRY”的前一个定义
+D:\my\Study\2023-2024第一学期\图形学\实验\期中大作业\Midtern Project\include\Angel.h(72,47): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\my\Study\2023-2024第一学期\图形学\实验\期中大作业\Midtern Project\main.cpp(480,9): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\my\Study\2023-2024第一学期\图形学\实验\期中大作业\Midtern Project\main.cpp(481,9): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+  mid.vcxproj -> D:\my\Study\2023-2024第一学期\图形学\实验\期中大作业\Midtern Project\x64\Debug\mid.exe
